@@ -4,6 +4,6 @@
 
 ### программа "Инженерия программного обеспечения"
 
-Для запуска генератора нажмите сюда: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SergeyVostokin/questions.git/HEAD?filepath=questions.ipynb) 
+Для запуска генератора нажмите сюда: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SergeyVostokin/questions.git/HEAD?labpath=questions.ipynb) 
 
  
